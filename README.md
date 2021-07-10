@@ -16,7 +16,7 @@ and install the package.
 
 You could also do 
 ```
-git clone --recursive git@github.com:erikbohnsack/murty.git 
+git clone --recursive https://github.com/JohnPekl/murty.git
 pip3 install ./murty
 ``` 
 
