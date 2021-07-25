@@ -17,7 +17,7 @@ and install the package.
 You could also do 
 ```
 git clone --recursive https://github.com/JohnPekl/murty.git
-pip3 install ./murty
+python setup.py build develop
 ``` 
 
 ## Test
